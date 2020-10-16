@@ -1,2 +1,2 @@
-# HectoberChallenge2020
-this is for Hectober Challlenge 2020
+# HacktoberChallenge2020
+This is for Hacktober Challenge 2020
